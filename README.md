@@ -1,6 +1,5 @@
 ### Hello there
 <br />
-<br />
 
 - 🔭 tbd
 - 🌱 tbd
