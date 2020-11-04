@@ -30,8 +30,6 @@ Hi, I'm. .. , a passionate...
   <code><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></code>
 </p >
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=qsharpy&repo=qsharpy&countColor=%237B1E7A" />
-
 <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
@@ -40,3 +38,7 @@ Hi, I'm. .. , a passionate...
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 [![Bogdan's github stats](https://github-readme-stats.vercel.app/api?username=qSharpy)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align='center'>
+  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=qsharpy&repo=qsharpy&countColor=%237B1E7A" />
+</p>
