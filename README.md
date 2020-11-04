@@ -29,6 +29,8 @@ Hi, I'm. .. , a passionate...
 <code><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></code>
+[![HitCount](http://hits.dwyl.com/qSharpy/READMEmd.svg)](http://hits.dwyl.com/qSharpy/READMEmd)
+
 <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
