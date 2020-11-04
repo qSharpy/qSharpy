@@ -22,10 +22,14 @@
 --->
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=qSharpy&show_icons=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qSharpy&layout=compact"/>
 
+<!--- 
 [![Bogdan's github stats](https://github-readme-stats.vercel.app/api?username=qSharpy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qSharpy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--->
+
 
 <p align='center'>
   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=qsharpy&repo=qsharpy&countColor=%237B1E7A" />
