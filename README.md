@@ -23,7 +23,7 @@
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-[![Bogdan's github stats](https://github-readme-stats.vercel.app/api?username=qSharpy)](https://github.com/anuraghazra/github-readme-stats)
+[![Bogdan's github stats](https://github-readme-stats.vercel.app/api?username=qSharpy)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
 <p align='center'>
   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=qsharpy&repo=qsharpy&countColor=%237B1E7A" />
