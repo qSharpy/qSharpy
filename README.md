@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm. .. , a passionate...
 
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
 - 🌱 I’m currently learning GraphQL & Typescript
@@ -35,6 +35,4 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qSharpy)](https://github.com/anuraghazra/github-readme-stats)
+[![Bogdan's github stats](https://github-readme-stats.vercel.app/api?username=qSharpy)](https://github.com/anuraghazra/github-readme-stats)
