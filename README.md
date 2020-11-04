@@ -30,8 +30,6 @@ Hi, I'm. .. , a passionate...
 <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></code>
 
-[![HitCount](http://hits.dwyl.com/qSharpy/READMEmd.svg)](http://hits.dwyl.com/qSharpy/READMEmd)
-
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=qSharpy&repo=qsharpy&countColorcountColor&countColor=%237B1E7A)
 
 <!--- 
