@@ -21,8 +21,6 @@ Hi, I'm. .. , a passionate...
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 <p align='center'>
-**Languages and Tools:**  
-
   <code><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>
   <code><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/></code>
   <code><img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/></code>
