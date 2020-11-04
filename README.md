@@ -29,7 +29,8 @@ Hi, I'm. .. , a passionate...
   <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></code>
   <code><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></code>
 </p >
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=qSharpy&repo=qsharpy&countColorcountColor&countColor=%237B1E7A)
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=qsharpy&repo=qsharpy&countColor=%237B1E7A" />
 
 <!--- 
   if you have forked this to use on your profile, 
